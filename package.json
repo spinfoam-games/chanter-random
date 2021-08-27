@@ -1,0 +1,13 @@
+{
+  "name": "@chanter/random",
+  "version": "1.0.0",
+  "description": "Noise-based pseudo-random number generation",
+  "main": "src/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+  },
+  "author": "Spinfoam Games",
+  "license": "MIT"
+}
