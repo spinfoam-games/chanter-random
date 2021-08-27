@@ -1,6 +1,6 @@
 {
   "name": "@chanter/random",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Noise-based pseudo-random number generation",
   "main": "src/index.js",
   "directories": {
